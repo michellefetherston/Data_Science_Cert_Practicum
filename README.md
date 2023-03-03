@@ -1,1 +1,1 @@
-This is the repo for my data science practicum project, which focused on examining global emissions data (specifically Scope 3) through a partnership between Optera and Regis University.
+This is the repo for my data science practicum project, which focused on examining global emissions data (specifically Scope 3) through a partnership between Optera and Regis University. I worked in a team with two other students and our professor.
